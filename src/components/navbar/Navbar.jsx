@@ -45,7 +45,7 @@ const Navbar = () => {
         <p>Sign in</p>
         <button type="button">Sign up</button>
       </div>
-      {/*  */}
+      {/* Hamburger bar */}
       <div className="gpt3__navbar-menu">
         {toggleMenu ? (
           <RiCloseLine
